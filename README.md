@@ -1,6 +1,6 @@
 # COVID19_INDIA_INFO
 
-##### COVID19_INDIA_INFO is an android App to track the information about the tragic cases of the deadly pandemic **COVID19** in India. #####
+### COVID19_INDIA_INFO is an android App to track the information about the tragic cases of the deadly pandemic **COVID19** in India. ###
 This app contains several uselful modules which enable the user to be up-to-date with the COVID19 cases in the country, our states and even our many districts. 
 
 This project encourages users to **STAND AGAINST FAKE NEWS** and analyse and share only the official data. Hence, all the data used by this app is official and true. All its citation and links are mentioned below.
